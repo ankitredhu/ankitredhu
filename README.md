@@ -32,6 +32,8 @@
 #### 🔹 [BDD Automation Framework - BDD + Selenium + Excel](https://github.com/ankitredhu/bdd-automation-framework)
 > Built a scalable Cucumber BDD framework using Java, Selenium, and Page Object Model. Integrated Excel-based data-driven testing, Log4j2 logging, retry logic, and extent reports.
 
+#### 🔹 [ RestAssured API Automation Framework - RestAssured + TestNG + Cucumber](https://github.com/ankitredhu/swagger-petstore-api-framework)
+> Built an industry-standard API automation framework using Java, RestAssured, TestNG, and Cucumber. Includes a reusable API client layer, Log4j2 logging, JSON schema validation, and negative testing scenarios. Features data-driven testing with JSON and Excel (Apache POI). The framework follows clean coding practices with Page Object Model-like separation for API endpoints. Future enhancements include Cucumber BDD integration for feature-based testing, parallel execution with TestNG, and detailed reporting with Extent Reports—all designed to ensure scalability, maintainability, and real-world robustness.
 ---
 
 ### 📫 Contact Me
